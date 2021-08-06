@@ -1,7 +1,7 @@
 **If you want to read this meta-analysis:**
 
 * Go to the long url near the top of this page that starts with 'openmetaanalysis.github.io/'
-* Or go to http://openmetaanalysis.github.io/
+* Or go to https://openmetaanalysis.github.io/Pulmonary-embolism-diagnosis-with-computed-tomographic-pulmonary-angiography/
 
 **If you want to comment on this meta-analysis:**
 * Contact a [contributor](../../network/members) if you need access
